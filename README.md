@@ -1,8 +1,8 @@
-- hi, i'm okazu (but yall can call me henri)
-- i'm interested in pentesting/backend dev!
-- currently working with API development using C# and mobile development using ReactNative, but studying PHP and Java
-- i would love to work on API integrations or legacy code integrations
-- if ya wanna talk with me, you can always call me on discord (k.#0404)
+- Oi! Meu nome é Henrique, mas pode me chamar de henri.
+- Tenho interesse na área de cybersec, mas atualmente trabalho como desenvolvedor fullstack.
+- Venho trabalhando com a manutenção de uma API Rest e a criação de um aplicativo Mobile.
+- Minhas experiências mais fortes estão em React-Native, C#, HTML/CSS/Javascript, .NET Framework, .NET Core, ASP.NET, Rest API.
+
 
 <!---
 okazyu/okazyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
