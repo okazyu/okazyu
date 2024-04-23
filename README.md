@@ -12,7 +12,7 @@
 
 ### 💻 top repo atm
 
-<a href="https://github.com/okazyu/https://github.com/okazyu/csharp-cases">
+<a href="https://github.com/okazyu/csharp-cases">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okazyu&repo=csharp-cases&theme=synthwave" />
 </a>
 
