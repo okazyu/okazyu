@@ -1,4 +1,4 @@
-### ey
+### 🎃 ey
 
 💫 hello! i'm henri. i work as a developer (backend, focused in .net) but always loved cybersecurty and wish to work as a pentester/red team cybersec analyst. </br>
 🧬 i'm autistc and adhd, and tech is one of my early hyperfocuses. i'm a fast learner with good problem-solving skills! i'm always looking for innovative (and clean) ways to do my job.
@@ -9,6 +9,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&langs_count=7&theme=synthwave"/>
     
 </div>
+
+### 💻 top repo atm
+
+<a href="https://github.com/okazyu/https://github.com/okazyu/csharp-cases">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okazyu&repo=csharp-cases&theme=synthwave" />
+</a>
+
 
 
 <div style="display: inline_block"><br>
